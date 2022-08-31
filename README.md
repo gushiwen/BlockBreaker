@@ -1,4 +1,4 @@
-# BlockBreaker
+# The Block Breaker Game
 This chapter explores the rather mysterious subject of arrays and the related subject of tuples that goes along with it. The two are essentially the same thing: an array when used simply like an array, and a tuple when treated like a container object with properties and methods. A list is a Python class that we will also learn to use. We will use this new knowledge to create a game with pre-defined levels.<br />
 
 In this chapter, you will learn to:<br />
